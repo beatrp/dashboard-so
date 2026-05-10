@@ -1,4 +1,4 @@
-##  DASHBOARD - Links do Projeto de Sistemas Operacionais
+##  DASHBOARD - Projeto de Sistemas Operacionais
 
 O repositório contém o código-fonte da aplicação desenvolvida para exibir um dashboard de informações do sistema operacional e realizar a comparação entre execução local e execução em ambiente de nuvem.
 
