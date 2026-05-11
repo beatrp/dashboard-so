@@ -10,5 +10,5 @@ O repositório contém o código-fonte da aplicação desenvolvida para exibir u
 **Teste online da Aplicação no Railway:**   
 [https://dashboard-stats-so-production.up.railway.app/](https://dashboard-stats-so-production.up.railway.app/)
 
-**Arquivo .md com explicações da Atividade:**  
+**.md Explicativo da Atividade:**  
 [https://github.com/beatrp/Aulas-SO/tree/main/Aula%208/](https://github.com/beatrp/Aulas-SO/tree/main/Aula%208/)
